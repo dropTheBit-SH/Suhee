@@ -1,0 +1,83 @@
+{
+  "sequence": 14,
+  "studentArray": [
+    {
+      "no": 1,
+      "phone": "01012341234",
+      "name": "HONG",
+      "email": "hong@"
+    },
+    {
+      "no": 2,
+      "phone": "01098769876",
+      "name": "KIM",
+      "email": "kim@"
+    },
+    {
+      "no": 3,
+      "phone": "",
+      "name": "",
+      "email": ""
+    },
+    {
+      "no": 4,
+      "phone": "",
+      "name": "",
+      "email": ""
+    },
+    {
+      "no": 5,
+      "phone": "test",
+      "name": "test",
+      "email": "test"
+    },
+    {
+      "no": 6,
+      "phone": "",
+      "name": "",
+      "email": ""
+    },
+    {
+      "no": 7,
+      "phone": "",
+      "name": "",
+      "email": ""
+    },
+    {
+      "no": 8,
+      "phone": "",
+      "name": "",
+      "email": ""
+    },
+    {
+      "no": 9,
+      "phone": "",
+      "name": "",
+      "email": ""
+    },
+    {
+      "no": 10,
+      "phone": "",
+      "name": "",
+      "email": ""
+    },
+    {
+      "no": 11,
+      "phone": "",
+      "name": "",
+      "email": ""
+    },
+    {
+      "no": 12,
+      "phone": "",
+      "name": "",
+      "email": ""
+    },
+    {
+      "no": 13,
+      "phone": "2",
+      "name": "1",
+      "email": "3"
+    }
+  ]
+}
