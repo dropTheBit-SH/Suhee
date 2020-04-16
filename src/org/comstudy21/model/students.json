@@ -1,0 +1,17 @@
+{
+  "sequence": 3,
+  "studentArray": [
+    {
+      "no": 1,
+      "phone": "01012341234",
+      "name": "HONG",
+      "email": "hong@"
+    },
+    {
+      "no": 2,
+      "phone": "01098769876",
+      "name": "KIM",
+      "email": "kim@"
+    }
+  ]
+}
